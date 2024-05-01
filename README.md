@@ -1,6 +1,6 @@
 <h1> Welcome to Roman's github!</h1>
-<h4>Faculty, Computer Engineering | Technological Institute of the Philippines - Quezon City</h4>
-<h5>Interested in Applied Data Science, Machine Learning, Parallel Computing and Architecture</h5>
+<p> <b>Full-Time Faculty, Computer Engineering | Technological Institute of the Philippines - Quezon City</b> <br>
+Interested in Applied Data Science, Machine Learning, Parallel Computing and Architecture </p>
 
 <h5>Some Additional Details:</h5>
 
