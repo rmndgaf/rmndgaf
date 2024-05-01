@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Roman!</h1>
-<h3 align="center">Exploratory Nerd / PhD student / Gamer / Educator</h3>
+<h1> Welcome to Roman's github!</h1>
+<h3>"Faculty, Computer Engineering | Technological Institute of the Philippines - Queon City"</h3>
+<h4>Interested in Applied Data Science, Machine Learning, Parallel Computing and Architecture</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmndgaf&label=Profile%20views&color=0e75b6&style=flat" alt="rmndgaf" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmndgaf" alt="rmndgaf" /></a> </p>
 
-- 🔭 I’m currently working on **my doctor of engineering degree!**
-
-- 🌱 I’m currently learning **more and more emerging technologies everyday!**
-
-- 📫 How to reach me **rrichard.cpe@tip.edu.ph**
+Some Additional Details:
+- 🔭 I’m currently working on **doctorate dissertation**!
+- 🌱 I’m currently learning **more and more emerging technologies everyday**! Particularly, focused on learning more on optimization AI using parallel programming and high-performance computing.
+- 📫 You can reach me through my university email **rrichard.cpe@tip.edu.ph** / or my personal email **richardromanmarcos@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
