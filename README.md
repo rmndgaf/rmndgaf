@@ -4,10 +4,8 @@ Interested in Applied Data Science, Machine Learning, Parallel Computing and Arc
 
 <h5>Some Additional Details:</h5>
 
-- 🔭 I’m currently working on doctoral dissertation!
-
-- 🌱 I’m currently learning more and more emerging technologies everyday! Particularly, focused on learning more on optimization AI using parallel programming and high-performance computing.
-
+- 🔭 I’m currently working on my doctoral dissertation, focusing on hardware-level optimization of retrieval-augmented generation for NLP tasks!
+- 🌱 I’m currently learning more and more emerging technologies everyday! Particularly, focused on learning more on optimization using parallel programming in high-performance computing environments.
 - 📫 You can reach me through my university email rrichard.cpe@tip.edu.ph or my personal email richardromanmarcos@gmail.com.
 
 <h5 align="left">Languages and Tools:</h5>
