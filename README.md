@@ -9,7 +9,6 @@ Interested in Applied Data Science, Machine Learning, Parallel Computing and Arc
 - 📫 You can reach me through my university email rrichard.cpe@tip.edu.ph or my personal email richardromanmarcos@gmail.com.
 
 <h5 align="left">Other Unimportant Things:</h5>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmndgaf" alt="rmndgaf" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmndgaf&label=Profile%20views&color=0e75b6&style=flat" alt="rmndgaf" /> </p>
 <p align="left">
 </p>
